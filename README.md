@@ -1,4 +1,4 @@
-# news
+# News App
 
 Flutter News App that display top headlines through [NewsAPI](https://newsapi.org/).
 
